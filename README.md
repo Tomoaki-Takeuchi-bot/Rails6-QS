@@ -25,7 +25,7 @@ React の webpack も bash スクリプト（qs/quick-starter）で対応して�
 下記コマンドを打ち込み GitHub よりクローンしてください。
 
 ```
-git@github.com:Tomoaki-Takeuchi-bot/Rails6-QS.git <Project name>
+git clone https://github.com/Tomoaki-Takeuchi-bot/Rails6-QS.git <Project name>
 cd <Project name>
 ```
 
