@@ -9,7 +9,7 @@ React の webpack も bash スクリプト（qs/quick-starter）で対応して�
 
 ## 構成
 
-- Ruby 2.6（初期）
+- Ruby 2.7
 - Rails 6.0 以上
 - PostgreSQL
 
