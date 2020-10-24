@@ -1,4 +1,4 @@
-# use ruby version 2.6
+# use ruby version 2.7
 FROM ruby:2.7
 
 # using japanese on rails console
